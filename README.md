@@ -30,8 +30,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align="center">
+<!--     <td colspan=2 align="center">
       <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=nahidhossen1911&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
-    </td>
+    </td> -->
   </tr>
 </table>
