@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
 <h3>Self-motivated problem solver with experience in Android development using GitHub and Java. Designed and maintained the applications' full stacks through design, testing and deployment.</h3>
-<br>
-Android Application Development service:
-- Web convert to apk
-- Offline apk
-- Api online apk
-- apk ligh and Dark mode
-- and others...
+
+<h3><b>Experience:</b></h3>
+
+
+
+
+- Migrated applications from other operating systems to Android
+- Coordinated updates for data storage and retrieval
+- Designed new Android ecommerce software
+- Android's any app ui design
+- Integrated APIs for all applications
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/34324) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdnahid90090) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/34432) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/34523) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/234543) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@34523) 
