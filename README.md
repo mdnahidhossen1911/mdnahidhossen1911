@@ -16,16 +16,26 @@
 
 <hr>
 
+<br />
+<!-- First Row: Full-Width Streak Stats -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=light&hide_border=true&background=FFFFFF&stroke=000000&fire=FF4500&sideLabels=000000&currStreakNum=FF4500&ring=FF4500&currStreakLabel=FF4500&sideNums=000000" />
+</p>
 
 
-
-<table>
+<!-- Second Row: Two Side-by-Side GitHub Stats -->
+<table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Aras Güngöre's GitHub Stats" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+      </a>
     </td>
   </tr>
 </table>
+
