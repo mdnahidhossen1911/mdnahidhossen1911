@@ -45,3 +45,8 @@ I am always exploring new technologies and refining my skills to develop scalabl
   </tr>
 </table>
 
+<div align="center">
+   <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=blue&bg_color=ffffff&hide_border=true" width="84%"/>
+</div>
+
