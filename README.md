@@ -18,7 +18,6 @@ I'm Nahid Hossen, a Computer Science and Technology student with a strong focus 
 I am always exploring new technologies and refining my skills to develop scalable and efficient mobile applications.
 
 
-## Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)  
 
 ##  Featured Repositories  
