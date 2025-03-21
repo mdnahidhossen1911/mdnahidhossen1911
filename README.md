@@ -18,31 +18,24 @@ I'm Nahid Hossen, a Computer Science and Technology student with a strong focus 
 I am always exploring new technologies and refining my skills to develop scalable and efficient mobile applications.
 
 
-### 🛠️ Tech Stack  
+## Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)  
 
-## 📌 Featured Repositories  
+##  Featured Repositories  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dawah-Dev&repo=Dawah_mobile_application&theme=light)](https://github.com/Dawah-Dev/Dawah_mobile_application)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=light)](https://github.com/mdnahidhossen1911/Task_Manager)  
 
-
-
-
-
-
-
-<br />
-<!-- First Row: Full-Width Streak Stats -->
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=light&hide_border=true&background=FFFFFF&stroke=000000&fire=FF4500&sideLabels=000000&currStreakNum=FF4500&ring=FF4500&currStreakLabel=FF4500&sideNums=000000" />
-</p>
-
-
-<!-- Second Row: Two Side-by-Side GitHub Stats -->
+## Status
+<!-- GitHub Stats and Streak in One Row -->
+<!-- Custom GitHub Stats Layout -->
 <table align="center">
   <tr>
-    <td>
+    <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en" alt="mdnahidhossen1911" />
+      </a>
+      <br><br>
+      <a href="https://github.com/anuraghazra/github-readme-streak-stats"> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&hide_border=true" alt="GitHub Streak Stats" />
       </a>
     </td>
     <td>
