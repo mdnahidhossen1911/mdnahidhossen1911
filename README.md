@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
-<img src="https://thoughtfocus.com/wp-content/uploads/2024/05/flutter_banner-scaled.jpg">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQG1swTP3aARuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721196096136?e=1747872000&v=beta&t=MzUHMrF7Dmk47iMCjUSr-QB2Z7oZUd3faR1leQ0oBL4">
 
 <h3>Self-motivated problem solver with experience in Flutter app development using GitHub and Dart Designed and maintained the applications' full stacks through design, testing and deployment.</h3>
 
