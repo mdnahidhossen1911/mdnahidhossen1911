@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.+Nahid+Hossen&font=Fira%20Code&center=true&width=300&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.+Nahid+Hossen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
 </p>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQG1swTP3aARuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721196096136?e=1747872000&v=beta&t=MzUHMrF7Dmk47iMCjUSr-QB2Z7oZUd3faR1leQ0oBL4">
