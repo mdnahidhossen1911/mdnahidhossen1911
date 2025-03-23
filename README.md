@@ -55,6 +55,6 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 <div align="center">
    <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=blue&bg_color=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=react&bg_color=ffffff&hide_border=true&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
 </div>
 
