@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQG1swTP3aARuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721196096136?e=1747872000&v=beta&t=MzUHMrF7Dmk47iMCjUSr-QB2Z7oZUd3faR1leQ0oBL4">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" >
+<br>
 
+<p align="center">
+    <h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.+Nahid+Hossen&font=Fira%20Code&center=true&width=300&height=30">
+</p>
+<br>
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQG1swTP3aARuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721196096136?e=1747872000&v=beta&t=MzUHMrF7Dmk47iMCjUSr-QB2Z7oZUd3faR1leQ0oBL4">
+<img id="preview" src="https://komarev.com/ghpvc/?username=mdnahidhossen1911&color=grey">
 ### About Me  
 I'm Nahid Hossen, a Computer Science and Technology student with a strong focus on Flutter app development. I specialize in building high-performance, visually appealing applications with clean and efficient code. My expertise includes UI/UX design, API integrations, and advanced state management.  
 
