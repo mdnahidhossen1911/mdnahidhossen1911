@@ -28,8 +28,9 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)  
 
+
 ##  Featured Repositories  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=dawah_mobile_apk&theme=light)](https://github.com/mdnahidhossen1911/dawah_mobile_apk)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Crafty_Bay_Ecommearce_Application&theme=light)](https://github.com/mdnahidhossen1911/Crafty_Bay_Ecommearce_Application)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=light)](https://github.com/mdnahidhossen1911/Task_Manager)  
+[![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=dawah_mobile_apk&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/dawah_mobile_apk)  [![Crafty Bay E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Crafty_Bay_Ecommearce_Application&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/Crafty_Bay_Ecommearce_Application)  [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/Task_Manager)  
 
 ## Status
 <!-- GitHub Stats and Streak in One Row -->
@@ -38,16 +39,16 @@ I am always exploring new technologies and refining my skills to develop scalabl
   <tr>
     <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en" alt="mdnahidhossen1911" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en&theme=transparent&border_color=DDDDDD" alt="mdnahidhossen1911" />
       </a>
       <br><br>
       <a href="https://github.com/anuraghazra/github-readme-streak-stats"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&hide_border=true" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&theme=transparent&border_color=DDDDDD" alt="GitHub Streak Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&langs_count=10&layout=donut-vertical&count_private=true&theme=transparent&border_color=DDDDDD" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -55,6 +56,7 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 <div align="center">
    <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=react&bg_color=ffffff&hide_border=true&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=transparent&hide_border=false&bg_color=00000000&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
 </div>
+
 
