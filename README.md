@@ -30,25 +30,27 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 
 ##  Featured Repositories  
-[![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=dawah_mobile_apk&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/dawah_mobile_apk)  [![Crafty Bay E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Crafty_Bay_Ecommearce_Application&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/Crafty_Bay_Ecommearce_Application)  [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=transparent&border_color=DDDDDD)](https://github.com/mdnahidhossen1911/Task_Manager)  
+[![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=dawah_mobile_apk&theme=transparent&text_color=808080)](https://github.com/mdnahidhossen1911/dawah_mobile_apk)  
+[![Crafty Bay E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Crafty_Bay_Ecommearce_Application&theme=transparent&border_color=DDDDDD&text_color=808080)](https://github.com/mdnahidhossen1911/Crafty_Bay_Ecommearce_Application)  
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=transparent&border_color=DDDDDD&text_color=808080)](https://github.com/mdnahidhossen1911/Task_Manager)  
 
-## Status
+## <span style="color:gray">📊 Status</span>
 <!-- GitHub Stats and Streak in One Row -->
 <!-- Custom GitHub Stats Layout -->
 <table align="center">
   <tr>
     <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en&theme=transparent&border_color=DDDDDD" alt="mdnahidhossen1911" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en&theme=transparent&text_color=808080&border_color=DDDDDD" alt="mdnahidhossen1911" />
       </a>
       <br><br>
       <a href="https://github.com/anuraghazra/github-readme-streak-stats"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&theme=transparent&border_color=DDDDDD" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&theme=transparent&text_color=808080&border_color=DDDDDD" alt="GitHub Streak Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&langs_count=10&layout=donut-vertical&count_private=true&theme=transparent&border_color=DDDDDD" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&langs_count=10&layout=donut-vertical&count_private=true&theme=transparent&text_color=808080&border_color=DDDDDD" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -56,7 +58,6 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 <div align="center">
    <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=transparent&hide_border=false&bg_color=00000000&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=transparent&hide_border=false&text_color=808080&bg_color=00000000&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
 </div>
-
 
