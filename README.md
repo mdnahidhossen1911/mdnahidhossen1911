@@ -5,8 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.Nahid+Hossen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
 </p>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQG1swTP3aARuQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721196096136?e=1747872000&v=beta&t=MzUHMrF7Dmk47iMCjUSr-QB2Z7oZUd3faR1leQ0oBL4">
-<img id="preview" src="https://komarev.com/ghpvc/?username=mdnahidhossen1911&color=grey">
+<a href="https://nahid.info.bd/">
+<img src="https://scontent.fbzl5-1.fna.fbcdn.net/v/t39.30808-6/512160567_122234816996074736_929686237793087160_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHEQaXNBdjrws4vYWF6m_b4cHat3jmGphhwdq3eOYamGPXWG_jTDDO9m4V5AmC7CSZEHT2KGhtO4Z-uRhkqbFVJ&_nc_ohc=5JrphgTmfNwQ7kNvwEjTaAp&_nc_oc=Adlp3ptiOojW__SswbWqWm16KV8W4PA_JdS6iL4k2Loxa3TAfb2TZ0TjtHmgr8GUy20&_nc_zt=23&_nc_ht=scontent.fbzl5-1.fna&_nc_gid=_Mns25livsz8X7tTd8yGMA&oh=00_AfRhBZa6fv9o9kUVE_yl7CXZeVtcloazydz7FkZiceYl3Q&oe=6875DCD7" />
+</a>
 
 
 ### About Me  
