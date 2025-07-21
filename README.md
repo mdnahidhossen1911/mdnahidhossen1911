@@ -31,7 +31,7 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 
 ##  Featured Repositories  
-[![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Alwahada&theme=transparent&text_color=808080)](https://github.com/mdnahidhossen1911/Alwahada)
+ [![Tastify](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Tastify&theme=transparent&border_color=DDDDDD&text_color=808080)](https://github.com/mdnahidhossen1911/Tastify)  [![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Alwahada&theme=transparent&text_color=808080)](https://github.com/mdnahidhossen1911/Alwahada)
 [![Dawah Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=dawah_mobile_apk&theme=transparent&text_color=808080)](https://github.com/mdnahidhossen1911/dawah_mobile_apk) [![Crafty Bay E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Crafty_Bay_Ecommearce_Application&theme=transparent&border_color=DDDDDD&text_color=808080)](https://github.com/mdnahidhossen1911/Crafty_Bay_Ecommearce_Application)  [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=mdnahidhossen1911&repo=Task_Manager&theme=transparent&border_color=DDDDDD&text_color=808080)](https://github.com/mdnahidhossen1911/Task_Manager)  
 
 ## <span style="color:gray">Status</span>
