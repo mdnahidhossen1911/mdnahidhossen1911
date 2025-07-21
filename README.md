@@ -17,7 +17,7 @@ I'm Nahid Hossen, a Computer Science and Technology student with a strong focus 
 
 - Advanced UI design and implementation  
 - Pixel-perfect UI replication from Figma and Adobe XD  
-- State management with GetX  
+- State management with GetX and Provider  
 - REST API integration and backend communication  
 - Google Maps API implementation  
 - Firebase authentication and database integration  
