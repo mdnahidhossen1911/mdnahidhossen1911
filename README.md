@@ -21,7 +21,6 @@ I'm Nahid Hossen, a Computer Science and Technology student with a strong focus 
 - REST API integration and backend communication  
 - Google Maps API implementation  
 - Firebase authentication and database integration  
-- Native functionality handling with Method Channel  
 - AI prompt engineering
 
 I am always exploring new technologies and refining my skills to develop scalable and efficient mobile applications.
