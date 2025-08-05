@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hello 👋, I'm MD. Nahid Hossen</h1>
+    <h1 align="center">Hi 👋, I'm MD. Nahid Hossen</h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.Nahid+Hossen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
