@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://nahid.info.bd/">
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQHRkmofMeUIaw/feedshare-shrink_2048_1536/B4EZb.ydPmHQAo-/0/1748031363457?e=1757548800&v=beta&t=d_cvgsGxKzBzxlfmQu9JtkgbC24dgRDYXd1iZCzdAYY" />
+<img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" />
 </a>
 
 
