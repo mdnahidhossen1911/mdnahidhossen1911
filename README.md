@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://nahid.info.bd/">
-<img src="https://scontent.fbzl5-1.fna.fbcdn.net/v/t39.30808-6/512160567_122234816996074736_929686237793087160_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=QRDH8SeG9kIQ7kNvwHrs3mK&_nc_oc=Adk3mtmmDpsxN3GPEZb7tT-U9BPvEqL5aNrxkIDWvg8qn7gPNv8wn6afCkxzV3-lfKk&_nc_zt=23&_nc_ht=scontent.fbzl5-1.fna&_nc_gid=CU4gADZA9ZdclQpWzCDerg&oh=00_AfR-tUWMsVBWzWbiYhqBkWFaEzrPRMkC0L87OC0MZv7B9w&oe=6888C257" />
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQHRkmofMeUIaw/feedshare-shrink_2048_1536/B4EZb.ydPmHQAo-/0/1748031363457?e=1757548800&v=beta&t=d_cvgsGxKzBzxlfmQu9JtkgbC24dgRDYXd1iZCzdAYY" />
 </a>
 
 
