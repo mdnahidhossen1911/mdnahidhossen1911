@@ -9,7 +9,6 @@
 <img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" />
 </a>
 
-
 ### About Me  
 I'm Nahid Hossen, a Computer Science and Technology student with a strong focus on Flutter app development. I specialize in building high-performance, visually appealing applications with clean and efficient code. My expertise includes UI/UX design, API integrations, and advanced state management.  
 
