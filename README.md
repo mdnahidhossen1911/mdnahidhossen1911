@@ -1,13 +1,16 @@
-<p align="center">
-  <img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" 
-       width="100%" 
-       style="border-radius:18px; opacity:0.95;"
-       alt="MD. Nahid Hossen - Full Stack Developer Banner" />
-</p>
+
 
 <h1 align="center" style="font-weight:700;">👋 Hi, I'm MD. Nahid Hossen</h1>
 <p align="center" style="font-size:18px; font-weight: 500; opacity:0.9;">
   <span style="color:#007ACC;">✨ Full Stack App Developer</span> • 📱 Flutter Frontend • 💻 Pure Golang Backend
+</p>
+
+
+<p align="center">
+  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
+       width="100%" 
+       style="border-radius:18px; opacity:0.95;"
+       alt="MD. Nahid Hossen - Full Stack Developer Banner" />
 </p>
 
 ---
