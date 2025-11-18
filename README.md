@@ -13,7 +13,6 @@
        alt="MD. Nahid Hossen - Full Stack Developer Banner" />
 </p>
 
----
 
 <div align="center">
 <table style="border-collapse:collapse; width: 100%; max-width: 850px;">
@@ -29,7 +28,7 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 </table>
 </div>
 
----
+
 
 <div align="center">
 <table style="border-collapse:collapse; width: 100%; max-width: 850px;">
@@ -44,18 +43,19 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 | **Backend (Pure Go)** | `net/http` Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture. |
 | **Data & Cloud** | PostgreSQL, MySQL, Firebase, Supabase, REST API Planning. |
 | **Tools** | Git/GitHub, VS Code, Android Studio. |
+<p align="start" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=20" 
+       alt="Technical Skills Icons" />
+</p> 
+
 
 </td>
 </tr>
 </table>
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=6" 
-       alt="Technical Skills Icons" />
-</p>
 
----
+
 
 <div align="center">
 <table style="border-collapse:collapse; width: 100%; max-width: 850px;">
