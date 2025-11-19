@@ -57,20 +57,25 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 
 
 
-<div align="center">
+<div align="start">
 <table style="border-collapse:collapse; width: 100%; max-width: 850px;">
 <tr>
 <td style="padding:22px; border-radius:18px; background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08);">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&theme=transparent&hide_border=true&text_color=8a8a8a&line_height=25" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&layout=compact&theme=transparent&hide_border=true&text_color=8a8a8a&line_height=25" width="48%" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=transparent&hide_border=true&currStreakNum=7a7a7a&sideNums=7a7a7a&date_color=8a8a8a&ring=2197f1" width="60%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=transparent&hide_border=true&currStreakNum=ffffff&sideNums=8a8a8a&date_color=8a8a8a&ring=2197f1&fire=2197f1" width="55%" alt="GitHub Streak"/>
+    
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=8a8a8a&line_height=25&title_color=ffffff" width="40%" alt="Top Languages" />
+    
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
-## 📧 Get In Touch
+## Get In Touch
 
 | Resource | Link |
 | :--- | :--- |
