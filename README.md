@@ -19,7 +19,7 @@
 <tr>
 <td style="padding:25px; border-radius:18px; background:rgba(255,255,255,0.07); backdrop-filter:blur(14px); border:1px solid rgba(255,255,255,0.10);">
   
-## 💡 Core Philosophy
+## Core Philosophy
 
 I specialize in building **clean, high-performance mobile applications** with Flutter and developing **robust, minimalistic backend services** using pure Golang. I deliberately avoid heavy frameworks to ensure **predictable architecture, manual HTTP routing, and exceptional stability**. My focus is always on strong API design and efficient UI/UX development.
 
@@ -35,7 +35,7 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 <tr>
 <td style="padding:25px; border-radius:18px; background:rgba(255,255,255,0.05); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.10);">
 
-## 🛠️ Technical Stack & Expertise
+## Technical Stack & Expertise
 
 | Area | Key Skills |
 | :--- | :--- |
@@ -43,6 +43,8 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 | **Backend (Pure Go)** | `net/http` Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture. |
 | **Data & Cloud** | PostgreSQL, MySQL, Firebase, Supabase, REST API Planning. |
 | **Tools** | Git/GitHub, VS Code, Android Studio. |
+| **My Packages** | [![easiness](https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1)](https://pub.dev/packages/easiness) [![fmp](https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1)](https://pub.dev/packages/fmp) [![dart\_utils](https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1)](https://pub.dev/packages/multi_image) |
+
 <p align="start" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=20" 
        alt="Technical Skills Icons" />
@@ -53,6 +55,7 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 </tr>
 </table>
 </div>
+
 
 
 
