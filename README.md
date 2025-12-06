@@ -37,13 +37,39 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 
 ## Technical Stack & Expertise
 
-| Area | Key Skills |
-| :--- | :--- |
-| **Mobile (Flutter)** | Material 3, MVVM, Provider, Responsive UI, Animations, Offline Caching. |
-| **Backend (Pure Go)** | `net/http` Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture. |
-| **Data & Cloud** | PostgreSQL, MySQL, Firebase, Supabase, REST API Planning. |
-| **DevOps & Tools** | **Docker**, **Linux (Debian)**, Git/GitHub, VS Code, Android Studio. |
-| **My Packages** | [![easiness](https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1)](https://pub.dev/packages/easiness) [![fmp](https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1)](https://pub.dev/packages/fmp) [![dart\_utils](https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1)](https://pub.dev/packages/multi_image) |
+<table>
+  <thead>
+    <tr>
+      <th width="25%">Area</th> <th width="75%">Key Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mobile (Flutter)</strong></td>
+      <td>Material 3, MVVM, Provider, Responsive UI, Animations, Offline Caching.</td>
+    </tr>
+    <tr>
+      <td><strong>Backend (Pure Go)</strong></td>
+      <td><code>net/http</code> Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture.</td>
+    </tr>
+    <tr>
+      <td><strong>Data & Cloud</strong></td>
+      <td>PostgreSQL, MySQL, Firebase, Supabase, REST API Planning.</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps & Tools</strong></td>
+      <td><strong>Docker</strong>, <strong>Linux (Debian)</strong>, Git/GitHub, VS Code, Android Studio.</td>
+    </tr>
+    <tr>
+      <td><strong>My Packages</strong></td>
+      <td>
+        <a href="https://pub.dev/packages/easiness"><img src="https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1" alt="easiness"></a>
+        <a href="https://pub.dev/packages/fmp"><img src="https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1" alt="fmp"></a>
+        <a href="https://pub.dev/packages/multi_image"><img src="https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1" alt="dart_utils"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="start" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio,linux,debian,docker&theme=light&perline=20" 
