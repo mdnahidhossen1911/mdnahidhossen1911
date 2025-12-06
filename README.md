@@ -42,13 +42,13 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 | **Mobile (Flutter)** | Material 3, MVVM, Provider, Responsive UI, Animations, Offline Caching. |
 | **Backend (Pure Go)** | `net/http` Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture. |
 | **Data & Cloud** | PostgreSQL, MySQL, Firebase, Supabase, REST API Planning. |
-| **Tools** | Git/GitHub, VS Code, Android Studio. |
+| **DevOps & Tools** | **Docker**, **Linux (Debian)**, Git/GitHub, VS Code, Android Studio. |
 | **My Packages** | [![easiness](https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1)](https://pub.dev/packages/easiness) [![fmp](https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1)](https://pub.dev/packages/fmp) [![dart\_utils](https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1)](https://pub.dev/packages/multi_image) |
 
 <p align="start" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=20" 
+  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio,linux,debian,docker&theme=light&perline=20" 
        alt="Technical Skills Icons" />
-</p> 
+</p>
 
 
 </td>
