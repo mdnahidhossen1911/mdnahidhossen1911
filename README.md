@@ -66,7 +66,9 @@ I specialize in building **clean, high-performance mobile applications** with Fl
         <a href="https://pub.dev/packages/easiness"><img src="https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1" alt="easiness"></a>
         <a href="https://pub.dev/packages/fmp"><img src="https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1" alt="fmp"></a>
         <a href="https://pub.dev/packages/multi_image"><img src="https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1" alt="dart_utils"></a>
-      </td>
+        <a href="https://pub.dev/packages/scaffold_cli"><img src="https://img.shields.io/pub/v/multi_image?label=scaffold_cli&color=2197f1" alt="dart_utils"></a>
+
+   </td>
     </tr>
   </tbody>
 </table>
