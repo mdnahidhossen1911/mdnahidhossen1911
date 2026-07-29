@@ -74,7 +74,7 @@ I specialize in building **clean, high-performance mobile applications** with Fl
 </table>
 
 <p align="start" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio,linux,debian,aws,docker,kafka,kubernetes,redis&theme=light&perline=20" 
+  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio,linux,debian,aws,docker,rabbitmq,kubernetes,redis&theme=light&perline=20" 
        alt="Technical Skills Icons" />
 </p>
 
