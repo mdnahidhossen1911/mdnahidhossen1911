@@ -95,11 +95,7 @@ Here are some of the open-source tools and packages I've developed and published
 
 <p align="center" style="margin-top: 18px;">
   <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=dark&perline=18">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=18">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=18" width="100%" alt="Skills Matrix" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&perline=18" alt="Skills Matrix" />
   </a>
 </p>
 
@@ -119,8 +115,8 @@ Here are some of the open-source tools and packages I've developed and published
     <a href="https://github.com/mdnahidhossen1911">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=default&hide_border=true&title_color=007ACC&langs_count=8">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=default&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" height="185" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&bg_color=ffffff&text_color=24292f&title_color=007ACC&border_color=d0d7de&langs_count=8">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&bg_color=ffffff&text_color=24292f&title_color=007ACC&border_color=d0d7de&langs_count=8" alt="Top Languages" height="185" />
       </picture>
     </a>
   </p>
