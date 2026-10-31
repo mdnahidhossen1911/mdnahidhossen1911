@@ -2,6 +2,9 @@
 
   <h1>Hi, I'm MD. Nahid Hossen</h1>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=620&lines=Full+Stack+Mobile+%26+Backend+Engineer;Flutter+%26+Dart+Mobile+App+Specialist;Pure+Golang+Backend+Architect;Open+Source+Pub.dev+Package+Creator" alt="Typing SVG" />
+  </a>
 
   <p style="margin-top: 10px;">
     <strong>Crafting scalable, high-performance mobile applications and minimal, robust backend systems.</strong>
@@ -97,18 +100,14 @@ Here are some of the open-source tools and packages I've developed and published
 ### GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" width="460" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Stats Overview" width="460" />
+  <p>
+    <a href="https://github.com/mdnahidhossen1911">
+      <img src="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" height="185" />
+    </a>
+    <a href="https://github.com/mdnahidhossen1911">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" height="185" />
+    </a>
+  </p>
 </div>
 
 ---
