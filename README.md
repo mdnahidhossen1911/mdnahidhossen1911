@@ -1,126 +1,128 @@
+<div align="center">
 
+  <h1>👋 Hi, I'm MD. Nahid Hossen</h1>
 
-<h1 align="center" style="font-weight:700;">👋 Hi, I'm MD. Nahid Hossen</h1>
-<p align="center" style="font-size:18px; font-weight: 500; opacity:0.9;">
-  <span style="color:#007ACC;">✨ Full Stack App Developer</span> • 📱 Flutter Frontend • 💻 Pure Golang Backend
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=620&lines=Full+Stack+Mobile+%26+Backend+Engineer;Flutter+%26+Dart+Mobile+App+Specialist;Pure+Golang+Backend+Architect;Open+Source+Pub.dev+Package+Creator" alt="Typing SVG" />
+  </a>
 
+  <p style="margin-top: 10px;">
+    <strong>Crafting scalable, high-performance mobile applications and minimal, robust backend systems.</strong>
+  </p>
 
-<p align="center">
+  <p>
+    <a href="https://nahid.cc" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/nahid-hossen" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/NahidHossen1911" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+    </a>
+    <a href="mailto:mdnahidhossen1911@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <br />
+
   <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
        width="100%" 
-       style="border-radius:18px; opacity:0.95;"
-       alt="MD. Nahid Hossen - Full Stack Developer Banner" />
-</p>
+       style="border-radius:12px;"
+       alt="MD. Nahid Hossen Banner" />
 
-
-<div align="center">
-<table style="border-collapse:collapse; width: 100%; max-width: 850px;">
-<tr>
-<td style="padding:25px; border-radius:18px; background:rgba(255,255,255,0.07); backdrop-filter:blur(14px); border:1px solid rgba(255,255,255,0.10);">
-  
-## Core Philosophy
-
-I specialize in building **clean, high-performance mobile applications** with Flutter and developing **robust, minimalistic backend services** using pure Golang. I deliberately avoid heavy frameworks to ensure **predictable architecture, manual HTTP routing, and exceptional stability**. My focus is always on strong API design and efficient UI/UX development.
-
-</td>
-</tr>
-</table>
 </div>
 
+<br />
 
+---
 
-<div align="center">
-<table style="border-collapse:collapse; width: 100%; max-width: 850px;">
-<tr>
-<td style="padding:25px; border-radius:18px; background:rgba(255,255,255,0.05); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.10);">
+### 🚀 About Me & Engineering Philosophy
 
-## Technical Stack & Expertise
+I am a **Full Stack Software Engineer** specializing in the intersection of **performant mobile client development** and **lightweight, concurrent backend systems**.
+
+- 📱 **Mobile Development**: Architecting clean, reactive cross-platform mobile apps using **Flutter & Dart** with clean state management, modular MVVM architecture, buttery smooth animations, and resilient offline-first caching.
+- ⚡ **Backend Architecture**: Engineering high-throughput backend services using **Pure Golang**. I prioritize the Go standard library (`net/http`) over heavy web frameworks to ensure deterministic routing, minimal memory footprint, zero dependency bloat, and long-term stability.
+- 📦 **Open Source Contributor**: Creator and maintainer of developer-friendly packages on **pub.dev**, empowering Flutter developers with reusable utilities, CLI scaffolding tools, and media modules.
+- 🛠️ **Infrastructure & Databases**: Experienced with **PostgreSQL**, **MySQL**, **Redis**, **Docker containerization**, and running resilient services on **Debian/Linux** environments.
+
+---
+
+### 📦 Published Open Source Packages
+
+Here are some of the open-source tools and packages I've developed and published on [pub.dev](https://pub.dev):
+
+| Package | Status & Version | Description |
+| :--- | :--- | :--- |
+| [**easiness**](https://pub.dev/packages/easiness) | [![Pub Version](https://img.shields.io/pub/v/easiness?style=flat-square&color=0175C2&logo=dart)](https://pub.dev/packages/easiness) [![Pub Points](https://img.shields.io/pub/points/easiness?style=flat-square&color=2E8B57)](https://pub.dev/packages/easiness) | Powerful utility suite designed to streamline everyday Flutter and Dart workflows. |
+| [**fmp**](https://pub.dev/packages/fmp) | [![Pub Version](https://img.shields.io/pub/v/fmp?style=flat-square&color=0175C2&logo=dart)](https://pub.dev/packages/fmp) [![Pub Points](https://img.shields.io/pub/points/fmp?style=flat-square&color=2E8B57)](https://pub.dev/packages/fmp) | Flutter module and architecture companion for faster, structured application development. |
+| [**multi_image**](https://pub.dev/packages/multi_image) | [![Pub Version](https://img.shields.io/pub/v/multi_image?style=flat-square&color=0175C2&logo=dart)](https://pub.dev/packages/multi_image) [![Pub Points](https://img.shields.io/pub/points/multi_image?style=flat-square&color=2E8B57)](https://pub.dev/packages/multi_image) | Seamless, performant multi-image picking, compression, and UI display component for Flutter. |
+| [**scaffold_cli**](https://pub.dev/packages/scaffold_cli) | [![Pub Version](https://img.shields.io/pub/v/scaffold_cli?style=flat-square&color=0175C2&logo=dart)](https://pub.dev/packages/scaffold_cli) [![Pub Points](https://img.shields.io/pub/points/scaffold_cli?style=flat-square&color=2E8B57)](https://pub.dev/packages/scaffold_cli) | Developer CLI utility for generating boilerplate-free, clean-architecture project scaffolds. |
+
+---
+
+### 🛠️ Technical Stack & Tooling
 
 <table>
-  <thead>
-    <tr>
-      <th width="25%">Area</th> <th width="75%">Key Skills</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td><strong>Mobile (Flutter)</strong></td>
-      <td>Material 3, MVVM, Provider, Responsive UI, Animations, Offline Caching.</td>
+      <td width="22%"><strong>Mobile</strong></td>
+      <td>Flutter, Dart, Material 3, MVVM Architecture, Provider, BLoC, Custom Animations, SQLite / Hive Caching</td>
     </tr>
     <tr>
-      <td><strong>Backend (Pure Go)</strong></td>
-      <td><code>net/http</code> Routing, Custom Middlewares, JWT Auth, Raw SQL (PostgreSQL/MySQL), Clean Layered Architecture.</td>
+      <td><strong>Backend</strong></td>
+      <td>Golang (Pure <code>net/http</code>, Goroutines), Clean / Layered Architecture, RESTful APIs, JWT Auth, Custom Middleware</td>
     </tr>
     <tr>
-      <td><strong>Data & Cloud</strong></td>
-      <td>PostgreSQL, MySQL, Firebase, Supabase, REST API Planning.</td>
+      <td><strong>Databases & Queues</strong></td>
+      <td>PostgreSQL, MySQL, Redis, Supabase, Firebase, RabbitMQ</td>
     </tr>
     <tr>
-      <td><strong>DevOps & Tools</strong></td>
-      <td><strong>Docker</strong>, <strong>Linux (Debian)</strong>, Git/GitHub, VS Code, Android Studio.</td>
+      <td><strong>DevOps & Systems</strong></td>
+      <td>Docker, Kubernetes, Linux (Debian, Ubuntu), AWS Cloud Services, Git & GitHub Actions (CI/CD)</td>
     </tr>
     <tr>
-      <td><strong>My Packages</strong></td>
-      <td>
-        <a href="https://pub.dev/packages/easiness"><img src="https://img.shields.io/pub/v/easiness?label=easiness&color=2197f1" alt="easiness"></a>
-        <a href="https://pub.dev/packages/fmp"><img src="https://img.shields.io/pub/v/fmp?label=fmp&color=2197f1" alt="fmp"></a>
-        <a href="https://pub.dev/packages/multi_image"><img src="https://img.shields.io/pub/v/multi_image?label=multi_image&color=2197f1" alt="dart_utils"></a>
-        <a href="https://pub.dev/packages/scaffold_cli"><img src="https://img.shields.io/pub/v/multi_image?label=scaffold_cli&color=2197f1" alt="dart_utils"></a>
-
-   </td>
+      <td><strong>Developer Tools</strong></td>
+      <td>VS Code, Android Studio, Postman, Terminal / Bash, Figma</td>
     </tr>
   </tbody>
 </table>
 
-<p align="start" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=go,flutter,dart,postgres,mysql,firebase,supabase,git,github,vscode,androidstudio,linux,debian,aws,docker,rabbitmq,kubernetes,redis&theme=light&perline=20" 
-       alt="Technical Skills Icons" />
-</p>
-
-
-</td>
-</tr>
-</table>
+<div align="center" style="margin-top: 15px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&perline=9" alt="Skills Matrix" />
+  </a>
 </div>
 
+---
 
-
-
-
-<div align="start">
-<table style="border-collapse:collapse; width: 100%; max-width: 850px;">
-<tr>
-<td style="padding:22px; border-radius:18px; background:rgba(255,255,255,0.04); backdrop-filter:blur(12px); border:1px solid rgba(255,255,255,0.08);">
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=transparent&hide_border=true&currStreakNum=ffffff&sideNums=8a8a8a&date_color=8a8a8a&ring=2197f1&fire=2197f1" width="55%" alt="GitHub Streak"/>
-    
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=8a8a8a&line_height=25&title_color=ffffff" width="40%" alt="Top Languages" />
-    
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-## Get In Touch
-
-| Resource | Link |
-| :--- | :--- |
-| **Portfolio** | [https://nahid.info.bd](https://nahid.info.bd) |
-| **Email** | [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com) |
-| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/nahid-hossen) |
-| **X/Twitter** | [Follow me on X](https://twitter.com/NahidHossen1911) |
-
-
-</td>
-</tr>
-</table>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" width="460" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC" alt="Top Languages" width="370" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center" style="margin-top:25px; opacity:0.7;">
-  &copy; MD. Nahid Hossen • Thank you for visiting!
-</p>
+---
+
+### 🤝 Let's Connect & Collaborate
+
+Whether you're looking to build a high-performance mobile app, design an efficient Go backend, or discuss open-source collaborations, I'd love to hear from you!
+
+- 🌐 **Portfolio Website**: [nahid.cc](https://nahid.cc)
+- 💼 **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/nahid-hossen)
+- 🐦 **X (Twitter)**: [@NahidHossen1911](https://twitter.com/NahidHossen1911)
+- 📩 **Direct Email**: [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com)
+
+<div align="center">
+  <sub>Designed & engineered with care by <strong>MD. Nahid Hossen</strong> • Open to opportunities</sub>
+</div>
