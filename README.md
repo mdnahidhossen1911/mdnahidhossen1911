@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm MD. Nahid Hossen</h1>
+  <h1>Hi, I'm MD. Nahid Hossen</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=620&lines=Full+Stack+Mobile+%26+Backend+Engineer;Flutter+%26+Dart+Mobile+App+Specialist;Pure+Golang+Backend+Architect;Open+Source+Pub.dev+Package+Creator" alt="Typing SVG" />
@@ -27,10 +27,10 @@
 
   <br />
 
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
+  <img src="./assets/flutter-golang.gif"
        width="100%" 
        style="border-radius:12px;"
-       alt="MD. Nahid Hossen Banner" />
+       alt="Flutter and Golang Development Banner" />
 
 </div>
 
@@ -38,18 +38,18 @@
 
 ---
 
-### 🚀 About Me & Engineering Philosophy
+### About Me & Engineering Philosophy
 
 I am a **Full Stack Software Engineer** specializing in the intersection of **performant mobile client development** and **lightweight, concurrent backend systems**.
 
-- 📱 **Mobile Development**: Architecting clean, reactive cross-platform mobile apps using **Flutter & Dart** with clean state management, modular MVVM architecture, buttery smooth animations, and resilient offline-first caching.
-- ⚡ **Backend Architecture**: Engineering high-throughput backend services using **Pure Golang**. I prioritize the Go standard library (`net/http`) over heavy web frameworks to ensure deterministic routing, minimal memory footprint, zero dependency bloat, and long-term stability.
-- 📦 **Open Source Contributor**: Creator and maintainer of developer-friendly packages on **pub.dev**, empowering Flutter developers with reusable utilities, CLI scaffolding tools, and media modules.
-- 🛠️ **Infrastructure & Databases**: Experienced with **PostgreSQL**, **MySQL**, **Redis**, **Docker containerization**, and running resilient services on **Debian/Linux** environments.
+- **Mobile Development**: Architecting clean, reactive cross-platform mobile apps using **Flutter & Dart** with clean state management, modular MVVM architecture, smooth animations, and resilient offline-first caching.
+- **Backend Architecture**: Engineering high-throughput backend services using **Pure Golang**. I prioritize the Go standard library (`net/http`) over heavy web frameworks to ensure deterministic routing, minimal memory footprint, zero dependency bloat, and long-term stability.
+- **Open Source Contributor**: Creator and maintainer of developer-friendly packages on **pub.dev**, empowering Flutter developers with reusable utilities, CLI scaffolding tools, and media modules.
+- **Infrastructure & Databases**: Experienced with **PostgreSQL**, **MySQL**, **Redis**, **Docker containerization**, and running resilient services on **Debian/Linux** environments.
 
 ---
 
-### 📦 Published Open Source Packages
+### Published Open Source Packages
 
 Here are some of the open-source tools and packages I've developed and published on [pub.dev](https://pub.dev):
 
@@ -62,7 +62,7 @@ Here are some of the open-source tools and packages I've developed and published
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### Technical Stack & Tooling
 
 <table>
   <tbody>
@@ -97,31 +97,33 @@ Here are some of the open-source tools and packages I've developed and published
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### GitHub Activity & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" width="460" />
+        <img src="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" width="460" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC" alt="Top Languages" width="370" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" width="370" />
       </td>
     </tr>
   </table>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC" alt="GitHub Stats Overview" width="460" />
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
 Whether you're looking to build a high-performance mobile app, design an efficient Go backend, or discuss open-source collaborations, I'd love to hear from you!
 
-- 🌐 **Portfolio Website**: [nahid.cc](https://nahid.cc)
-- 💼 **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/nahid-hossen)
-- 🐦 **X (Twitter)**: [@NahidHossen1911](https://twitter.com/NahidHossen1911)
-- 📩 **Direct Email**: [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com)
+- **Portfolio Website**: [nahid.cc](https://nahid.cc)
+- **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/nahid-hossen)
+- **X (Twitter)**: [@NahidHossen1911](https://twitter.com/NahidHossen1911)
+- **Direct Email**: [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com)
 
 <div align="center">
   <sub>Designed & engineered with care by <strong>MD. Nahid Hossen</strong> • Open to opportunities</sub>
