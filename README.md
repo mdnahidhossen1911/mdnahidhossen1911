@@ -64,7 +64,7 @@ Here are some of the open-source tools and packages I've developed and published
 
 ### Technical Stack & Tooling
 
-<table>
+<table width="100%">
   <tbody>
     <tr>
       <td width="22%"><strong>Mobile</strong></td>
@@ -89,11 +89,11 @@ Here are some of the open-source tools and packages I've developed and published
   </tbody>
 </table>
 
-<div align="center" style="margin-top: 15px;">
+<p align="center" style="margin-top: 18px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&perline=9" alt="Skills Matrix" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&perline=18" width="100%" alt="Skills Matrix" />
   </a>
-</div>
+</p>
 
 ---
 
