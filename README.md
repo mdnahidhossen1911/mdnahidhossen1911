@@ -27,10 +27,14 @@
 
   <br />
 
-  <img src="./assets/flutter-golang.gif"
-       width="100%" 
-       style="border-radius:12px;"
-       alt="Flutter and Golang Development Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/flutter-golang-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/flutter-golang-light.gif">
+    <img src="./assets/flutter-golang-dark.gif"
+         width="100%" 
+         style="border-radius:12px;"
+         alt="Flutter and Golang Development Banner" />
+  </picture>
 
 </div>
 
@@ -91,7 +95,11 @@ Here are some of the open-source tools and packages I've developed and published
 
 <p align="center" style="margin-top: 18px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&perline=18" width="100%" alt="Skills Matrix" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=dark&perline=18">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=18">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,go,postgres,mysql,redis,rabbitmq,docker,kubernetes,aws,linux,debian,firebase,supabase,git,github,vscode,androidstudio&theme=light&perline=18" width="100%" alt="Skills Matrix" />
+    </picture>
   </a>
 </p>
 
@@ -102,10 +110,18 @@ Here are some of the open-source tools and packages I've developed and published
 <div align="center">
   <p>
     <a href="https://github.com/mdnahidhossen1911">
-      <img src="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF" alt="GitHub Streak" height="185" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=tokyonight&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=github-light&hide_border=true&ring=007ACC&fire=007ACC">
+        <img src="https://streak-stats.demolab.com?user=mdnahidhossen1911&theme=github-light&hide_border=true&ring=007ACC&fire=007ACC" alt="GitHub Streak" height="185" />
+      </picture>
     </a>
     <a href="https://github.com/mdnahidhossen1911">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" height="185" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=tokyonight&hide_border=true&title_color=007ACC&langs_count=8">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=default&hide_border=true&title_color=007ACC&langs_count=8">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mdnahidhossen1911&layout=compact&theme=default&hide_border=true&title_color=007ACC&langs_count=8" alt="Top Languages" height="185" />
+      </picture>
     </a>
   </p>
 </div>
