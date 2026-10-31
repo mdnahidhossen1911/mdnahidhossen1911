@@ -1,3 +1,4 @@
+import utils.session
 import os
 import math
 from PIL import Image, ImageDraw, ImageFont
