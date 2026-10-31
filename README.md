@@ -2,9 +2,6 @@
 
   <h1>Hi, I'm MD. Nahid Hossen</h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=620&lines=Full+Stack+Mobile+%26+Backend+Engineer;Flutter+%26+Dart+Mobile+App+Specialist;Pure+Golang+Backend+Architect;Open+Source+Pub.dev+Package+Creator" alt="Typing SVG" />
-  </a>
 
   <p style="margin-top: 10px;">
     <strong>Crafting scalable, high-performance mobile applications and minimal, robust backend systems.</strong>
