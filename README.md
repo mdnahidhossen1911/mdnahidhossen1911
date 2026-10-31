@@ -129,8 +129,8 @@ Here are some of the open-source tools and packages I've developed and published
 Whether you're looking to build a high-performance mobile app, design an efficient Go backend, or discuss open-source collaborations, I'd love to hear from you!
 
 - **Portfolio Website**: [nahid.cc](https://nahid.cc)
-- **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/mdnahidhossen1911)
-- **X (Twitter)**: [@NahidHossen1911](https://twitter.com/NahidHossen1911)
+- **LinkedIn Profile**: [linkedin.com/in/mdnahidhossen1911](https://www.linkedin.com/in/mdnahidhossen1911)
+- **X (Twitter)**: [@nahidhossen1911](https://twitter.com/nahidhossen1911)
 - **Direct Email**: [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com)
 
 <div align="center">
