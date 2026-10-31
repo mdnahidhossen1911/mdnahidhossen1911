@@ -14,7 +14,7 @@
     <a href="https://nahid.cc" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/nahid-hossen" target="_blank">
+    <a href="https://www.linkedin.com/in/mdnahidhossen1911" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/NahidHossen1911" target="_blank">
@@ -129,7 +129,7 @@ Here are some of the open-source tools and packages I've developed and published
 Whether you're looking to build a high-performance mobile app, design an efficient Go backend, or discuss open-source collaborations, I'd love to hear from you!
 
 - **Portfolio Website**: [nahid.cc](https://nahid.cc)
-- **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/nahid-hossen)
+- **LinkedIn Profile**: [linkedin.com/in/nahid-hossen](https://www.linkedin.com/in/mdnahidhossen1911)
 - **X (Twitter)**: [@NahidHossen1911](https://twitter.com/NahidHossen1911)
 - **Direct Email**: [mdnahidhossen1911@gmail.com](mailto:mdnahidhossen1911@gmail.com)
 
